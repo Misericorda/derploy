@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+    /*background-color: #afbdd3;*/
+}
+
+img {
+    width: 100%;
+    background-color: #afbdd3;
+    border-bottom: 1px solid #efefef;
+    border-top: 1px solid #efefef;
+}
+
+h1 {
+    text-align: center;
+}
